@@ -9,5 +9,7 @@ public class GItStudy {
     public static void main(String[] args) {
         System.out.println("main--第一次提交");
         System.out.println("main --第二次提交");
+
+        System.out.println("main主干更新");
     }
 }
